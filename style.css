@@ -31,3 +31,29 @@ ul {
 li {
     margin: 10px 0;
 }
+
+#contato {
+    max-width: 500px;
+    margin: 45px auto 0;
+    padding: 30px;
+    background-color: #fff;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+#contato h2 {
+    color: #c45116;
+    font-size: 25px;
+    margin-bottom: 18px;
+}
+
+#contato p {
+    color: #555;
+    font-size: 16px;
+    margin-bottom: 12px;
+    line-height: 1.5;
+}
+
+#contato p:last-child {
+    margin-bottom: 0;
+}
